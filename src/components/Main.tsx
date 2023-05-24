@@ -85,12 +85,24 @@ function Main() {
           height={1600}
         />
       </div>
-      <div className="w-[158px] h-[158px] bg-[#fdd2d1]"></div>
-      <div className="w-[158px] h-[158px] bg-[#fdd2d1]"></div>
-      <div className="w-[158px] h-[158px] bg-[#fdd2d1]"></div>
-      <div className="w-[158px] h-[158px] bg-[#fdd2d1]"></div>
-      <div className="w-[158px] h-[158px] bg-[#fdd2d1]"></div>
-      <div className="w-[158px] h-[158px] bg-[#fdd2d1]"></div>
+      <div className="w-[158px] h-[158px] bg-[#fdd2d1]">
+        <div className="w-full h-full backdrop-blur-3xl bg-gray-400"></div>
+      </div>
+      <div className="w-[158px] h-[158px] bg-[#fdd2d1]">
+        <div className="w-full h-full backdrop-blur-3xl bg-gray-400"></div>
+      </div>
+      <div className="w-[158px] h-[158px] bg-[#fdd2d1]">
+        <div className="w-full h-full backdrop-blur-3xl bg-gray-400"></div>
+      </div>
+      <div className="w-[158px] h-[158px] bg-[#fdd2d1]">
+        <div className="w-full h-full backdrop-blur-3xl bg-gray-400"></div>
+      </div>
+      <div className="w-[158px] h-[158px] bg-[#fdd2d1]">
+        <div className="w-full h-full backdrop-blur-3xl bg-gray-400"></div>
+      </div>
+      <div className="w-[158px] h-[158px] bg-[#fdd2d1]">
+        <div className="w-full h-full backdrop-blur-3xl bg-gray-400"></div>gg
+      </div>
     </main>
   );
 }
