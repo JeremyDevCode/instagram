@@ -7,7 +7,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <nav className="fixed bottom-0 flex justify-between items-center w-[454px] px-4 py-2 border-b-2 border-[#f7f7f7] bg-[#ffffff]">
+    <nav className="fixed bottom-0 flex justify-between items-center w-[478px] px-4 py-2 border-b-2 border-[#f7f7f7] bg-[#ffffff]">
       <HomeIcon />
       <SearchIcon />
       <PlusIcon />
