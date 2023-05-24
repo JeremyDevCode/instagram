@@ -9,7 +9,7 @@ import { Stats } from "@/components/Stats";
 export default function Home() {
   return (
     <div className="w-full flex items-center justify-center">
-      <main className="flex min-h-screen w-[478px] flex-col items-center justify-center bg-[#ffffff]">
+      <main className="flex min-h-screen min-w-[478px] flex-col items-center justify-center bg-[#ffffff]">
         <Navbar />
         <Header />
         <Details />

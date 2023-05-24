@@ -7,10 +7,10 @@ function Header() {
       <div>
         <Image
           src="/logo.jpg"
-          className="w-full h-full"
+          className="w-[92px] h-[92px]"
           alt="logo"
-          width={90}
-          height={90}
+          width={1600}
+          height={1600}
         />
       </div>
       <div className="flex flex-col gap-2 flex-1">
